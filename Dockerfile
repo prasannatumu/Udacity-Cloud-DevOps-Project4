@@ -1,6 +1,5 @@
 FROM python:3.7.3-stretch
 
-MAINTAINER prasannatumu05@gmail.com
 ## Step 1:
 # Create a working directory
 WORKDIR /app
